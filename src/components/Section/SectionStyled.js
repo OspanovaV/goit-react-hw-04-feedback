@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 export const SectionWrapp = styled.section`
-    align-items: flex-start;
+  align-items: center;
   display: flex;
   flex-direction: column;
   margin: 0 auto 30px;
